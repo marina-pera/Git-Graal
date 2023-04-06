@@ -1,14 +1,27 @@
-lieu: table-ronde
+<<<<<<< Updated upstream
+lieu: chemin
 inventaire:
   - cheval
 personnages:
   - moi:
-    - santé: 10
+    - santé: 8
   - chevalier_noir:
     - santé: 15
+=======
+lieu: fontaine
+inventaire:
+  - cheval
+  - baguette
+  - épée longue
+personnages:
+  - moi:
+      - santé: 1
+  - chevalier_noir:
+      - santé: 0
+>>>>>>> Stashed changes
   - lion:
-    - santé: 20
+    - santé: 12
   - serpent:
-    - santé: 20
+    - santé: 0
   - géant:
     - santé: 25
